@@ -1,0 +1,8 @@
+.table tr{
+    cursor: pointer;
+}
+.starWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
